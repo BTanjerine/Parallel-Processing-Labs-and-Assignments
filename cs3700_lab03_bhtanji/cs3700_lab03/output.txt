@@ -1,0 +1,8 @@
+
+Thread[0] - slice [0:249999] loc_min: 43 loc_max: 9999980
+Thread[1] - slice [250000:499999] loc_min: 44 loc_max: 9999970
+Thread[3] - slice [750000:999999] loc_min: 23 loc_max: 9999933
+Thread[2] - slice [500000:749999] loc_min: 0 loc_max: 9999875
+Time to find min and max: 0.00182419 seconds
+Result: min: 0 max: 9999970
+

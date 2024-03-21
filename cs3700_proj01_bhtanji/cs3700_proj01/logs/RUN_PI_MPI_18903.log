@@ -1,0 +1,6 @@
+process 0 on cn15
+data length: 5000
+process 1 on cn16
+data length: 5000
+sum points: 7791
+run time: 0.013711 Estimate PI: 3.11640 DELTA: 0.0252

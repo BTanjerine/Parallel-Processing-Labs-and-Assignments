@@ -1,0 +1,10 @@
+process 0 on cn19
+data length: 250
+process 1 on cn20
+data length: 250
+process 3 on cn22
+data length: 250
+process 2 on cn21
+data length: 250
+sum points: 786
+run time: 0.023616 Estimate PI: 3.14400 DELTA: -0.0024

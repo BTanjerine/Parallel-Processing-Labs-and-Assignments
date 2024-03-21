@@ -1,0 +1,11 @@
+Process 0 on cn19
+Process 4 on cn23
+Process 3 on cn22
+Process 2 on cn21
+Process 1 on cn20
+Process 0 - startIndex 0 endIndex 199999; part_sum 2820030816
+Process 4 - startIndex 800000 endIndex 999999; part_sum 3906240864
+Process 3 - startIndex 600000 endIndex 799999; part_sum 2560946528
+Process 2 - startIndex 400000 endIndex 599999; part_sum 1215652192
+Process 1 - startIndex 200000 endIndex 399999; part_sum 4165325152
+Execution time (sec) = 0.024176 sum = 1783293664 

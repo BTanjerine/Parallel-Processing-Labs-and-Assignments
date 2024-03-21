@@ -1,0 +1,11 @@
+Process 0 on cn19
+Process 1 on cn20
+Process 4 on cn23
+Process 3 on cn22
+Process 2 on cn21
+Process 0 - startIndex 0 endIndex 199999; local min 7268; local max 2147477024
+Process 4 - startIndex 0 endIndex 199999; local min 21381; local max 2147475100
+Process 1 - startIndex 0 endIndex 199999; local min 10983; local max 2147481611
+Process 3 - startIndex 0 endIndex 199999; local min 14471; local max 2147482076
+Process 2 - startIndex 0 endIndex 199999; local min 20412; local max 2147463430
+Execution time (sec) = 0.024391 min = 7268 max = 2147482076 

@@ -1,0 +1,18 @@
+process 0 on cn03
+data length: 125
+process 7 on cn10
+data length: 125
+process 4 on cn07
+data length: 125
+process 1 on cn04
+data length: 125
+process 6 on cn09
+data length: 125
+process 3 on cn06
+data length: 125
+process 2 on cn05
+data length: 125
+process 5 on cn08
+data length: 125
+sum points: 790
+run time: 0.039674 Estimate PI: 3.16000 DELTA: -0.0184
